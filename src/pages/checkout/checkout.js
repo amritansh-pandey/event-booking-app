@@ -69,7 +69,7 @@ const Checkout = ({ item }) => {
                     <div className="checkoutDetailBookNow">
                         <button className="checkoutDetailBook">
                             <Link to="/thankyou" style={{ textDecoration: "none", color: "white" }}>
-                                Book Now
+                               Pay Now
                             </Link>
                         </button>
                     </div>
