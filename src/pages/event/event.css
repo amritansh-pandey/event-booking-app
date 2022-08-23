@@ -1,0 +1,129 @@
+.event {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.eventBannerContainer {
+    margin-bottom: 20px;
+}
+
+.eventBanner {
+    width: 100%;
+}
+
+.eventContainer {
+
+    margin-bottom: 50px;
+}
+
+.eventDetail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white;
+}
+
+.eventTitleInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.eventTitle {
+    font-size: 32px;
+}
+
+.eventInfo {}
+
+.bookNow {
+    padding: 10px 40px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.eventDateTimePrice {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px 20px;
+    border-top: #b1b1b1 solid 1px;
+    font-size: 20px;
+    background-color: white;
+}
+
+.eventPrice {}
+
+.eventLayout {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.artistInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 30%;
+    padding: 10px;
+    background-color: white;
+
+}
+
+.artist {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.artistName {
+    font-size: 20px;
+}
+
+.socialMedia {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.eventDescription {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    background-color: white;
+
+}
+
+.descriptionTitle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.descriptionText {}
+
+.city {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.eventCityPlaceLocation {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+
+}
+
+.place {
+    font-size: 16px;
+}
+
+.location {
+    color: gray;
+    font-size: 14px;
+}

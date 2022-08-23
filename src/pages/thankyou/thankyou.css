@@ -1,0 +1,16 @@
+.thankYou {
+    text-align: center;
+}
+.tick {
+    width: 100px;
+    margin: 50px 0 0 0;
+}
+.thankyouButton{
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+    width: 400px;
+}

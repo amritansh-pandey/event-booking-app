@@ -1,0 +1,47 @@
+.eventCard {
+    margin-bottom: 20px;
+}
+
+.cardImage {
+    width: 220px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.eventName {
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+    line-height: 1.33;
+    margin-bottom: 5px;
+}
+
+.cardDetail {
+    width: 220px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.eventLocation {
+    font-size: 14px;
+    color: rgb(102, 102, 102);
+    margin-bottom: 5px;
+}
+
+.cardInfoFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.eventPrice {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.eventRating {
+    font-size: 16px;
+    font-weight: 600;
+}

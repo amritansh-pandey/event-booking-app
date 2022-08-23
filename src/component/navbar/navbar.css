@@ -1,0 +1,46 @@
+.navbar{
+    height: 56px;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+}
+
+.navContainer{
+    width: 80%;
+    margin: 0 auto;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logoCenter{
+    text-align: center;
+}
+
+.logo{
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+
+.navButton{
+    margin-left: 20px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #000000;
+    border-radius: 6px;
+
+}
+
+
+
+.navSearchInput{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    width: 60%;
+    border-radius: 6px;
+}
+
